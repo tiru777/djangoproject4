@@ -1,5 +1,9 @@
 ```commandline
-Continue of previous project 
+Check project Intial steps in previous repo
+```
+
+```commandline
+Class Based Views
 ```
 
 ```commandline
